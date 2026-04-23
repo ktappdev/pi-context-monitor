@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-monitor",
+  "version": "1.0.0",
+  "description": "Color-coded context usage indicator in footer. Shows token count with gradient from faint red to bright red as you approach 100k.",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}

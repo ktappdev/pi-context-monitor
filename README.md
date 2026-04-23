@@ -1,4 +1,4 @@
-# Context Monitor
+# pi-context-monitor
 
 Pi extension that shows a color-coded context usage indicator in the footer.
 
@@ -11,13 +11,13 @@ Pi extension that shows a color-coded context usage indicator in the footer.
 ## Install
 
 ```bash
-pi install git:github.com/ktappdev/context-monitor
+pi install git:github.com/ktappdev/pi-context-monitor
 ```
 
 Or from a local path:
 
 ```bash
-pi install /path/to/context-monitor
+pi install /path/to/pi-context-monitor
 ```
 
 ## License
